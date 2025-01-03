@@ -76,6 +76,7 @@ const SignUpPage = () => {
               <label className="label">
                 <span className="label-text font-medium">Email</span>
               </label>
+
               <div className="relative">
                 <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                   <Mail className="size-5 text-base-content/40" />
